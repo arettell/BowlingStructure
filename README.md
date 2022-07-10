@@ -1,1 +1,1 @@
-# BowlingStructure
+This file takes inout from a file for the names and scores of people bowling. It takes these names and scores and inputs them into a structure, and an array within the structure for the scores. after that the user has the option to average the scores of each player, then display them to the console
